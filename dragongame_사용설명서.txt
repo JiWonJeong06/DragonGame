@@ -1,0 +1,13 @@
+get-pip.py download 
+
+get-pip.py를 클릭하여 다운로드 하고
+
+cmd창을 엽니다.
+
+파이썬 버전이 3.8인 경우면 아래 
+pip install pygame 
+
+
+파이썬 버전이 3.11인 경우면 아래
+cmd > pip install pygame --pre
+
